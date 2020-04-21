@@ -1,0 +1,272 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "c40dde3243d7a81225027b057e467528"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "3723af0ed16b7d7368193b2fca23132c"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "7331f6eb15671b2fc8e3ffd46e849f7b"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "cc87cb8806c844f0646558fe70d5c5d1"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/lazysizes.min.js",
+        "type": "file",
+        "md5": "6a69d476c93de2b78a72acb259abccea"
+    },
+    {
+        "path": "/assets/js/ls.parent-fit.min.js",
+        "type": "file",
+        "md5": "f8467455ea5c88e3e51a4f212d2632bd"
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "aafb02c13ce2b295ff34a8ac0db67cbb"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "9c62086e50d89a9b6a29389a70ee0d65"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "b00814b406ac7700d941b23e08c545b0"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "205f40927e4a45297a0b266e50ad78d5"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg2js.js",
+        "type": "file",
+        "md5": "2edce17568ef29c308f3d0e28c9c7a06"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "b40f17fabcda1519011795fa715c5751"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "ae5b8ffffb37a64a9be016441a42d939"
+    },
+    {
+        "path": "/assets/svg/search.svg",
+        "type": "file",
+        "md5": "a5bb83b82b98f41b359f20dbf9db6e44"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "63bac2a8e88021dd997efbd9d8271be2"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/doctorhimself",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/doctorhimself/index.html",
+        "type": "file",
+        "md5": "7d6c83eeeb21b509d4600965cd9c75c8"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "60d65217411c389c2aa91e0bfcf7d97a"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "1d08051e6bf830de437cab13db57d541"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "2801be6a9764e419c4316033cb0e82c4"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/files",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/google-classroom-meet-integration.gif",
+        "type": "file",
+        "md5": "c111f51b5d1b4c5fd433c10de3bfc572"
+    },
+    {
+        "path": "/media/posts/1/google-classroom-meet.jpg",
+        "type": "file",
+        "md5": "1d9c36bd549c0b9ff4fa16151b4635cf"
+    },
+    {
+        "path": "media/posts/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/responsive/google-classroom-meet-2xl.jpg",
+        "type": "file",
+        "md5": "f465fcbb81e8ec31343dbaf39eaaa908"
+    },
+    {
+        "path": "/media/posts/1/responsive/google-classroom-meet-lg.jpg",
+        "type": "file",
+        "md5": "3f285d252e6fe8baf232e30e28533b93"
+    },
+    {
+        "path": "/media/posts/1/responsive/google-classroom-meet-md.jpg",
+        "type": "file",
+        "md5": "8470de871ee80cbaeaf28d094ce5bd99"
+    },
+    {
+        "path": "/media/posts/1/responsive/google-classroom-meet-sm.jpg",
+        "type": "file",
+        "md5": "1d9d0d07c781feac2235caff10ebc0a2"
+    },
+    {
+        "path": "/media/posts/1/responsive/google-classroom-meet-xl.jpg",
+        "type": "file",
+        "md5": "e55deb7e5fa688d661eeafe06f948cc2"
+    },
+    {
+        "path": "/media/posts/1/responsive/google-classroom-meet-xs.jpg",
+        "type": "file",
+        "md5": "0a28405acf9e00a6522b6246efb78ffa"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/0.me-logo-188x188.png",
+        "type": "file",
+        "md5": "9e69751a309af63e9140200fa41d8b82"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/0.me-logo-188x188-2xl.png",
+        "type": "file",
+        "md5": "44907af75b98de4775579ced2b338d64"
+    },
+    {
+        "path": "/media/website/responsive/0.me-logo-188x188-lg.png",
+        "type": "file",
+        "md5": "44907af75b98de4775579ced2b338d64"
+    },
+    {
+        "path": "/media/website/responsive/0.me-logo-188x188-md.png",
+        "type": "file",
+        "md5": "44907af75b98de4775579ced2b338d64"
+    },
+    {
+        "path": "/media/website/responsive/0.me-logo-188x188-sm.png",
+        "type": "file",
+        "md5": "44907af75b98de4775579ced2b338d64"
+    },
+    {
+        "path": "/media/website/responsive/0.me-logo-188x188-xl.png",
+        "type": "file",
+        "md5": "44907af75b98de4775579ced2b338d64"
+    },
+    {
+        "path": "/media/website/responsive/0.me-logo-188x188-xs.png",
+        "type": "file",
+        "md5": "44907af75b98de4775579ced2b338d64"
+    },
+    {
+        "path": "search.html",
+        "type": "file",
+        "md5": "02d374da248b906a70dce7f0128dfa15"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "b6e13c8b22436fa399422351e1c4de84"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "use-meet-in-google-classroom-for-virtual-meeting",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/use-meet-in-google-classroom-for-virtual-meeting/index.html",
+        "type": "file",
+        "md5": "4e4d436e06f25366412cc562b182d51f"
+    }
+]
