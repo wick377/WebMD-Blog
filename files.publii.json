@@ -117,22 +117,22 @@
     {
         "path": "/authors/doctorhimself/index.html",
         "type": "file",
-        "md5": "4921faa0f9b2c773009e2258289befff"
+        "md5": "de489887c46600f0e274c2ac2c24b3c1"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "f262dd695a6a02b4b215f5e478790a7e"
+        "md5": "41174639fef559a1ed1bbaa05b5db4cb"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "da7994a1d968e34baa39591a80e0f54a"
+        "md5": "e9d3004ce89dd2cadee61edbcfc604e4"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "8af242d326f7ff8798924ceb6c995a9d"
+        "md5": "0f6e2830ed2ac2feecee51b4bc05b3cf"
     },
     {
         "path": "media",
@@ -217,7 +217,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "0d0d41554be0ccef746af26b3b1f195f"
+        "md5": "4c18f89cfc0b142ce5b380f9c1030256"
     },
     {
         "path": "sitemap.xsl",
@@ -225,13 +225,8 @@
         "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
     },
     {
-        "path": "use-meet-in-google-classroom-for-virtual-meeting",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/use-meet-in-google-classroom-for-virtual-meeting/index.html",
+        "path": "use-meet-in-google-classroom-for-virtual-meeting.html",
         "type": "file",
-        "md5": "66e232b70f8f2a774f12e8d2a28840d4"
+        "md5": "dd993657bc84c0d0237fc17a31b39871"
     }
 ]
