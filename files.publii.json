@@ -127,7 +127,7 @@
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "1d08051e6bf830de437cab13db57d541"
+        "md5": "8706a805e17782601bf21067d180b0b5"
     },
     {
         "path": "index.html",
@@ -267,6 +267,6 @@
     {
         "path": "/use-meet-in-google-classroom-for-virtual-meeting/index.html",
         "type": "file",
-        "md5": "4e4d436e06f25366412cc562b182d51f"
+        "md5": "6fdce54d24691040098a8e5cac60635e"
     }
 ]
