@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "c40dde3243d7a81225027b057e467528"
+        "md5": "4fe0a212a55e26f884d010fab7f64814"
     },
     {
         "path": "assets",
@@ -32,7 +32,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "cc87cb8806c844f0646558fe70d5c5d1"
+        "md5": "6bdf6827e31120db05a7f20b2572e7e0"
     },
     {
         "path": "assets/js",
@@ -117,22 +117,22 @@
     {
         "path": "/authors/doctorhimself/index.html",
         "type": "file",
-        "md5": "686299752c6363f5189f84d69b2ce76a"
+        "md5": "67325186fcc7f6791e465f664c565537"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "542cf412318c59c918866339085bfa77"
+        "md5": "268d467364db4c5bb2f6359a1645a51a"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "ca0713e722d3a14ee98c6194137d047e"
+        "md5": "5b6b2b30888d12ed64dca814b89a24da"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "3ef9285ba7d40527b7358b2159c2a47f"
+        "md5": "3426d433270cc61e9ac7e584a8e75cf5"
     },
     {
         "path": "media",
@@ -337,12 +337,12 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "02d374da248b906a70dce7f0128dfa15"
+        "md5": "c5fc2198ce2728a9738951309e78eeeb"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "688d10320f925ba20960e3ea781bfdc6"
+        "md5": "34709e2f1f9ea739410cd9480c241ac8"
     },
     {
         "path": "sitemap.xsl",
@@ -357,7 +357,7 @@
     {
         "path": "/use-calendar-with-google-classroom/index.html",
         "type": "file",
-        "md5": "51c17d65a73d387d90ac32e5f31548c7"
+        "md5": "8ea2915646857d953c5a089ea773dfe6"
     },
     {
         "path": "use-google-classroom-for-distance-learning",
@@ -367,7 +367,7 @@
     {
         "path": "/use-google-classroom-for-distance-learning/index.html",
         "type": "file",
-        "md5": "d3435cd7941852c91b38a60f21d2f2dd"
+        "md5": "42d8b34bcb010731160eef527adfd220"
     },
     {
         "path": "use-meet-in-google-classroom-for-virtual-meeting",
@@ -377,6 +377,6 @@
     {
         "path": "/use-meet-in-google-classroom-for-virtual-meeting/index.html",
         "type": "file",
-        "md5": "91be5418a1ac6800cb4cb31456867207"
+        "md5": "e3bff9fbc284c7c5cb3468e200194f8f"
     }
 ]

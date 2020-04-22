@@ -3,7 +3,7 @@
     <title>WebMD.tech - Blog</title>
     <link href="https://blog.webmd.tech/feed.xml" rel="self" />
     <link href="https://blog.webmd.tech" />
-    <updated>2020-04-22T19:13:53+05:00</updated>
+    <updated>2020-04-22T22:16:18+05:00</updated>
     <author>
         <name>doctorHimself</name>
     </author>
@@ -17,17 +17,17 @@
         <link href="https://blog.webmd.tech/use-calendar-with-google-classroom/"/>
         <id>https://blog.webmd.tech/use-calendar-with-google-classroom/</id>
 
-        <updated>2020-04-22T19:03:52+05:00</updated>
+        <updated>2020-04-22T22:14:20+05:00</updated>
             <summary>
                 <![CDATA[
-                    <p><img class="post__image post__image--wide" src="https://blog.webmd.tech/media/posts/3/Hand_with_Pen_Calendar_US_Version-e1456856319841.jpg" alt="" width="100%"></p>
+                    <p><img class="post__image post__image--center" src="https://blog.webmd.tech/media/posts/3/Hand_with_Pen_Calendar_US_Version-e1456856319841.jpg" width="100%"></p>
 <p>For each class, you share a Classroom calendar and a Google Calendar with your teacher and classmates.<br>You can see due dates, class events and scheduled Meet sessions in the calendar.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><img class="post__image post__image--wide" src="https://blog.webmd.tech/media/posts/3/Hand_with_Pen_Calendar_US_Version-e1456856319841.jpg" alt="" width="100%"></p>
+                <p><img class="post__image post__image--center" src="https://blog.webmd.tech/media/posts/3/Hand_with_Pen_Calendar_US_Version-e1456856319841.jpg" width="100%"></p>
 <p>For each class, you share a Classroom calendar and a Google Calendar with your teacher and classmates.<br>You can see due dates, class events and scheduled Meet sessions in the calendar.</p>
 
 <p> </p>
@@ -80,17 +80,17 @@
         <link href="https://blog.webmd.tech/use-meet-in-google-classroom-for-virtual-meeting/"/>
         <id>https://blog.webmd.tech/use-meet-in-google-classroom-for-virtual-meeting/</id>
 
-        <updated>2020-04-21T21:58:43+05:00</updated>
+        <updated>2020-04-22T22:14:56+05:00</updated>
             <summary>
                 <![CDATA[
-                    <p><img class="post__image post__image--wide" src="https://blog.webmd.tech/media/posts/1/google-classroom-meet.jpg" alt="" width="100%"></p>
+                    <p><img class="post__image post__image--center" src="https://blog.webmd.tech/media/posts/1/google-classroom-meet.jpg" width="100%"></p>
 <p>With Google Meet, upto 250 people can join a virtual meeting, and speak or share video with each other from anywhere with internet access.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><img class="post__image post__image--wide" src="https://blog.webmd.tech/media/posts/1/google-classroom-meet.jpg" alt="" width="100%"></p>
+                <p><img class="post__image post__image--center" src="https://blog.webmd.tech/media/posts/1/google-classroom-meet.jpg" width="100%"></p>
 <p>With Google Meet, upto 250 people can join a virtual meeting, and speak or share video with each other from anywhere with internet access.</p>
 
 <p><br>A Google Meet organizer, who starts a meeting, can share whatever is on their screen with everyone on a call, and any participant can turn their own audio and/or video feed off at any time, participating however they want.</p>
